@@ -12,7 +12,7 @@ export default class ArtistMenu extends React.Component {
             <nav className="artists-menu">
                 {artists.map(menuArtist => {
                     return <Link key={menuArtist.id} to={`/artist/${menuArtist.id}`} activeClassName="active">
-                        {menuAthlete.name}
+                        {menuArtist.name}
                     </Link>
                 })}
             </nav>

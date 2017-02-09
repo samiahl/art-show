@@ -12,6 +12,10 @@ const data = {
     'se': {
         'name': 'Sweden',
         'icon': 'flag-se.png'
+    },
+    'sp': {
+        'name': 'Spain',
+        'icon': 'flag-se.png'
     }
 };
 
