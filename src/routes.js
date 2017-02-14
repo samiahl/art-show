@@ -6,7 +6,7 @@ import React from 'react';
 import { Route, Indexroute } from 'react-router';
 import Layout from './components/Layout';
 import IndexPage from './components/IndexPage';
-import ArtistPage from './components/artistPage';
+import ArtistPage from './components/ArtistPage';
 import NotFoundPage from './components/NotFoundPage';
 
 const routes = (
