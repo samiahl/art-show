@@ -7,12 +7,12 @@
 
 const artists = [
     {
-        'id': 'salvador-dalí',
+        'id': 'salvador-dali',
         'name': 'Salvador Dalí',
-        'country': 'cu',
+        'country': 'sp',
         'birth': '1904',
-        'image': 'dali1.jpg',
-        'cover': 'Dali2.jpg',
+        'image': 'dali2.jpg',
+        'cover': 'dali1.jpg',
         'link': 'https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD',
         'paintings': [
             { 'year': '1931', 'type': 'O', 'name': 'The Persistence of Memory'},
