@@ -3,7 +3,7 @@
  */
 // src/data/artists.js
 
-"use strict";
+'use strict';
 
 const artists = [
     {
